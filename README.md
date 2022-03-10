@@ -2,10 +2,7 @@
 
 ## Dataset
 
-TLCN is our dataset. It has 77 topics and timelines. You can download the Dataset from google drive (https://drive.google.com/drive/u/1/folders/1a_Q3jAI5jqiSlBx1r8m01rjATsvPtY6Z), and you can download the raw data from here.
-
-
-`datasets/TLCN` is a preprocessed TLCN dataset, `./TLCN` is the raw data.
+TLCN is our dataset. It has 77 topics and timelines. You can download the Dataset from google drive (https://drive.google.com/drive/u/1/folders/1a_Q3jAI5jqiSlBx1r8m01rjATsvPtY6Z), and you can also download the raw data from here.
 
 ## Library installation
 To install requirements, run:
